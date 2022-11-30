@@ -1,1 +1,1 @@
-learn new concept of DSA
+learn new concepts of DSA
