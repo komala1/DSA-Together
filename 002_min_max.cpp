@@ -1,6 +1,6 @@
 pair<long long, long long> getMinMax(long long a[], int n) {
-    int min1 = INT_MAX;
-    int max1 = INT_MIN;
+    int min1 = a[0];
+    int max1 = a[0];
     for(int i=0;i<n;i++)
     {
         if(a[i]>max1)
